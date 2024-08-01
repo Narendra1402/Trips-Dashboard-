@@ -1,4 +1,5 @@
-# Trips-Dashboard-
+# Trips-Dashboard
+![Trips Dashboard](https://github.com/user-attachments/assets/d0a4f3bc-35d1-4e29-90e5-668f5addb20e)
 
 🚀 Project Showcase: Interactive Trip Details Dashboard using Power BI and SQL 🚀
 🔍 Project Overview:
@@ -30,5 +31,3 @@ Offers detailed insights into customer trip patterns and preferences, enabling t
 Regional Trip Distribution
 
 Visualizes trip distribution across different regions, helping to identify high-demand areas and optimize driver allocation.
-
-![Trips Dashboard](https://github.com/Narendra1402/Trips-Dashboard-/assets/122566558/89f775ee-de01-4ae3-91df-3e157003b952)
